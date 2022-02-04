@@ -18,7 +18,7 @@ I'm an algorithm developer, specializing in computer vision. I love solving prob
 * Maps and geographical data | Medical data
 * Computer graphics
 
-### 📊 Knowledfe sharing
+### 📊 Knowledge sharing
 I give talks from time to time about my professional or personal Data Science projects. Some of them are uploaded to 
 [youtube](https://www.youtube.com/playlist?list=PLytd8wshHHh9Tf53tyG58R3cpuwFChVzz).
 
